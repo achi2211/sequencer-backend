@@ -64,8 +64,8 @@
 **Content Example** : 
 ```json
 {
-    "function": "isEven"
-    "value": true|false
+    "function": "isEven",
+    "value": "true|false"
 }
 ```
 ## Error Responses
@@ -93,7 +93,7 @@
 ## Usage
 
 ```bash
-git clone https://github.com/achi2211/sequencer-backend.git
+git clone git@github.com:achi2211/sequencer-backend.git
 
 cd sequencer-backend
 
