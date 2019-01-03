@@ -106,7 +106,7 @@ npm install
 npm run dev
 
 # test
-npm run unit
+npm run test
 
 # coverage
 npm run cover
