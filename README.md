@@ -29,7 +29,7 @@
 **Content Example** : 
 ```json
 {
-    "function": "fibonacci|factorial|prime|range|partialSum"
+    "function": "fibonacci|factorial|prime|range|partialSum",
     "value": 1
 }
 ```
